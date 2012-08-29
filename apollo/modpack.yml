@@ -17,7 +17,7 @@ builds:
         mods:
             basemods: apollo-v1.0.0
             buildcraft: v2.2.14
-            custommodspawner: v1.5.1
+            custommobspawner: v1.5.1
             ee2: v1.4.6.5
             elementalcreepers: v2.3r2_mp
             enderstorage: v1.1.3
