@@ -11,6 +11,31 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    1.0.2:
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: apollo-v1.0.1
+            buildcraft: v2.2.14
+            custommobspawner: v1.5.1
+            ee2: v1.4.6.5
+            elementalcreepers: v2.3r2_mp
+            enderstorage: v1.1.3
+            extrabees: v1.2.1
+            extrabiomes: v2.2.6
+            forestry: v1.4.8.6
+            ic2: v1.97
+            ic2-advancedmachines: v4.0
+            ic2-compactsolars: v2.3.2.10
+            ic2-nuclearcontrol: v1.1.10b
+            inventorytweaks: v1.41b
+            ironchests: v3.8.0.40
+            nei: v1.2.2
+            redpower: v2.0.5b2
+            reisminimap: v3.2_04
+            smartmoving: v8.5
+            wrcbe: v1.2.2.3
+            z-apollo-configs: v1.0.1
     1.0.1:
         libraries:
         minecraft: 1.2.5
