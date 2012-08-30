@@ -8,6 +8,8 @@ mods:
         versions:
             apollo-v1.0.0:
             apollo-v1.0.2:
+            apollo-v1.0.5:
+            apollo-v1.0.6:
             vanilla-v1.3.2:
             vanilla-v1.3.1:
             vanilla-v1.2.5:
@@ -34,6 +36,7 @@ mods:
         modtype: "content"
         versions:
             v1.4.6.5:
+            v1.4.6.5.1:
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
@@ -110,6 +113,7 @@ mods:
         installtype: "zip"
         versions:
             v1.2.2:
+            v1.3.0.11:
     redpower:
         name: "RedPower"
         description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
