@@ -70,6 +70,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
             v1.97:
+            v1.103:
     ic2-advancedmachines:
         name: "IC2 Advanced Machines"
         description: ""
@@ -78,6 +79,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
             v4.0:
+            v4.1:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
         description: ""
