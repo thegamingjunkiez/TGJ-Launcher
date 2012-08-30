@@ -15,7 +15,7 @@ builds:
         libraries:
         minecraft: 1.2.5
         mods:
-            basemods: apollo-v1.0.1
+            basemods: apollo-v1.0.2
             buildcraft: v2.2.14
             custommobspawner: v1.5.1
             ee2: v1.4.6.5
