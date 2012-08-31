@@ -39,6 +39,7 @@ mods:
         modtype: "content"
         versions:
             v1.33:
+            v1.41:
     ee2:
         name: "Equivalent Exchange 2"
         description: ""
