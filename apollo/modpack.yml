@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 1.0.5
-latest: 2.0.0
+latest: 2.0.1
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,32 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    2.0.1:
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: apollo-v2.0.1
+            buildcraft: v3.1.6.25
+            enderstorage: v1.1.5
+            extrabees: v1.2.1
+            extrabiomes: v2.2.7
+            forestry: v1.4.8.4
+            ic2: v1.103
+            ic2-advancedmachines: v4.1
+            ic2-nuclearcontrol: v1.1.11
+            inventorytweaks: v1.41b
+            ironchests: v3.8.0.40
+            nei: v1.3.0.11b
+            redpower: v2.0.5b2
+            reisminimap: v3.2_04
+            smartmoving: v9.5
+            wrcbe: v1.2.2.3
+            computercraft: v1.33
+            logi: v0.4.5.67
+            mffs: v2.0.6.1.0
+            ic2-advancedsolars: v3.0.0
+            ic2-gravi: v1.2
+            z-apollo-configs: v2.0.1
     2.0.0:
         libraries:
         minecraft: 1.2.5
