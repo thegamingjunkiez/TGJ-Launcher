@@ -6,12 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            apollo-v1.0.0:
-            apollo-v1.0.2:
-            apollo-v1.0.5:
-            apollo-v1.0.6:
-            apollo-v2.0.0:
-            apollo-v2.0.1:
+            apollo-v2.0.2:
             vanilla-v1.3.2:
             vanilla-v1.3.1:
             vanilla-v1.2.5:
